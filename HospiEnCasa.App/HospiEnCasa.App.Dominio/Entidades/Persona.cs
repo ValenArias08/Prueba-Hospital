@@ -1,5 +1,5 @@
 using System;
-namespace HospiEnCasa.app.Dominio
+namespace HospiEnCasa.App.Dominio.Entidades
 {
     public  class Persona
     {

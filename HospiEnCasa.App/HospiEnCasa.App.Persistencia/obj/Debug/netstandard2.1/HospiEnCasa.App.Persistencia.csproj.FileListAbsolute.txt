@@ -2,3 +2,15 @@ C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netsta
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
 C:\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.deps.json
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+D:\Sebas Burbano\Codigo\Github\Hospitalizacion\Prueba-Hospital\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
