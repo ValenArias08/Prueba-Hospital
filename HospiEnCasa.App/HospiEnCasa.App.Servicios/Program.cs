@@ -20,6 +20,7 @@ namespace HospiEnCasa.App.Servicios
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    Debug.log("Hola");
                     webBuilder.UseStartup<Startup>();
                 });
     }
